@@ -1,0 +1,6 @@
+#ignore data folder
+data/
+millionsongsubset/
+.ipynb_checkpoints
+__pycache__
+.DS_store
