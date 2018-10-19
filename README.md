@@ -15,22 +15,22 @@ for Music Information Retrieval Conference (ISMIR 2011), 2011.
 
 ## In this repository you will find:
 -The extraction of HDF5 source files and some initial EDA:<br/>
-  [01_Extract_HDF5_Files_to_a_CSV_File.ipynb](https://git.generalassemb.ly/Sam-Lundberg-DEN/capstonemsd/blob/master/01_Extract_HDF5_Files_to_a_CSV_File.ipynb)
+  [01_Extract_HDF5_Files_to_a_CSV_File.ipynb](https://github.com/SamLundberg/MillionSongDataset/blob/master/01_Extract_HDF5_Files_to_a_CSV_File.ipynb)
 
 -Web-scraping the Billboard Top 100 charts from 1958-2011, to determine if a song was popular or not:<br/>
-  [02_Scrape_Billboard_top_100.ipynb](https://git.generalassemb.ly/Sam-Lundberg-DEN/capstonemsd/blob/master/02_Scrape_Billboard_top_100.ipynb)
+  [02_Scrape_Billboard_top_100.ipynb](https://github.com/SamLundberg/MillionSongDataset/blob/master/02_Scrape_Billboard_top_100.ipynb)
 
 -Exploratory Data Analysis:<br/>
-  [03_EDA.ipynb](https://git.generalassemb.ly/Sam-Lundberg-DEN/capstonemsd/blob/master/03_EDA.ipynb)
+  [03_EDA.ipynb](https://github.com/SamLundberg/MillionSongDataset/blob/master/03_EDA.ipynb)
 
 -Predicting if a song is hot/popular or not using information from the Billboard Top 100 charts:<br/>
-  [04_Predict_Hot_Billboard Songs.ipynb](https://git.generalassemb.ly/Sam-Lundberg-DEN/capstonemsd/blob/master/04_Predict_Hot_Billboard_Songs.ipynb)
+  [04_Predict_Hot_Billboard Songs.ipynb](https://github.com/SamLundberg/MillionSongDataset/blob/master/04_Predict_Hot_Billboard_Songs.ipynb)
 
 -Predicting if a genre can be found with audio features:<br/>
-  [05_Genre_Identification.ipynb](https://git.generalassemb.ly/Sam-Lundberg-DEN/capstonemsd/blob/master/05_Genre_Identification.ipynb)
+  [05_Genre_Identification.ipynb](https://github.com/SamLundberg/MillionSongDataset/blob/master/05_Genre_Identification.ipynb)
 
 An Executive Summary is included in the Documents folder:<br/>
-  [Summary](https://git.generalassemb.ly/Sam-Lundberg-DEN/capstonemsd/blob/master/Documents/Executive_Summary.md)
+  [Summary](https://github.com/SamLundberg/MillionSongDataset/blob/master/Documents/Executive_Summary.md)
 
 Below is a dictionary of audio terms and columns that are found in the 10k dataset file, for reference:<br/>
 
